@@ -35,14 +35,6 @@ A machine learning project predicting survival on the Titanic dataset using vari
 
 ---
 
-## 📈 GitHub Stats
-
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ompajgade&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ompajgade&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [ompajgade@gmail.com](mailto:ompajgade@gmail.com)
