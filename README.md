@@ -14,7 +14,7 @@ I'm an AI & ML enthusiast with a strong foundation in Python and databases. Pass
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, C/C++
+- **Languages:** Python, SQL
 - **Libraries & Frameworks:** TensorFlow, Keras, NumPy, Pandas, OpenCV
 - **Databases:** MySQL
 - **Tools:** Git, Tkinter, Matplotlib
